@@ -1,2 +1,2 @@
-# jogos
-Aula de python com Alura - Jogo de adivinhação
+# Jogos em Python
+Formação em programação em Python com Orientação a Objetos: Alura
